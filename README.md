@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shreeram Pradhan
+# 👋 Hi, I'm Shreeram Chandra Pradhan
 
 🎓 B.Tech Student | 📊 Aspiring Data Scientist | 💻 Python Programmer
 
