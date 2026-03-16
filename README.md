@@ -86,6 +86,6 @@ I am currently focused on building strong skills in **Data Science, Machine Lear
 ## 📫 Connect With Me
 
 LinkedIn: Coming Soon
-Email: (optional)
+Email: shreeramchpradhan10264@gmail.com
 
 ⭐ Always curious to learn and build new things.
